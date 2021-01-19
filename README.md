@@ -1,11 +1,11 @@
 # LinkToFivemServer
 Link that you can connect to your FiveM server by just edit few things
 
-1.在fivem://connect/yourserveriphere 的 yourserveriphere 更改你的伺服器ip.
+1.在 "fivem://connect/yourserveriphere" 的 "yourserveriphere" 更改你的伺服器ip.
 
 1.Change "yourserveriphere" with your server ip in "fivem://connect/yourserveriphere"
 
-2.上面和下面的YOURTITLEHERE和Redirecting to Fivem Server 也可以更改~
+2.上面和下面的"YOURTITLEHERE"和"Redirecting to Fivem Server" 也可以更改~
    
 2.You can replace all things in "YOURTITLEHERE"and"Redirecting to Fivem Server"
 
@@ -15,7 +15,7 @@ Link that you can connect to your FiveM server by just edit few things
 
 下面的只供參考！！！
  
-Only For Reference!!!
+Only For References!!!
 
 https://www.process.st/how-to-host-a-website-on-google-drive-for-free/ 
 
